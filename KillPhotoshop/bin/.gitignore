@@ -4,6 +4,7 @@
 /ImageDisplay.class
 /IntArrayWorker.class
 /IntArrayWorkerTester.class
+/KillPhotoshopRunner.class
 /Picture.class
 /PictureExplorer$1.class
 /PictureExplorer$2.class
@@ -19,4 +20,3 @@
 /SimplePicture.class
 /leftArrow.gif
 /rightArrow.gif
-/KillPhotoshopRunner.class
